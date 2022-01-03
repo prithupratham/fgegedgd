@@ -1,0 +1,42 @@
+.heading{
+   width: 100%;
+   text-align: left;
+   
+}
+
+.heading button{
+   float: right;
+   border: rgb(0, 0, 0) 1px solid;
+}
+.heading h3{
+   display: inline;
+}
+
+canvas{
+   box-shadow: 5px 5px 5px rgb(255, 255, 255);
+   border: 5px solid rgb(255, 255, 255);
+}
+#start,#status,#restart{
+   font-size: 22px;
+}
+body{
+   text-align: center;
+}
+ 
+   .modal-dialog{
+   width: 70%;
+}
+  
+       
+   
+   .modal-body
+   {
+       text-align: left;
+       font-size: 20px;
+   }
+   #my
+   {
+      background-color: grey;
+      color:white;
+      line-height: 2;
+   }
